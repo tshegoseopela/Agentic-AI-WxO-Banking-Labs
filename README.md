@@ -2,7 +2,6 @@
 
 ![alt text](/agentic-bootcamp.png)
 
-**[Click here to go to the latest release!](https://github.ibm.com/skol/agentic-ai-client-bootcamp/releases/latest)**
 
 In this bootcamp, you will build and deploy an Agentic AI application prototype for an enterprise use case.
 
@@ -14,6 +13,6 @@ In this bootcamp, you will build and deploy an Agentic AI application prototype 
 
 ## Pick a use case
 Select an enterprise use case, learn about the business story, and implement it using the hands-on step-by-step guides:
-- [Banking Intelligent Branch Operations](./usecases/intelligent-assistant)
-- [Finance Market Research Analyst](./usecases/banking-financial-research-analyst/)
-- [Intelligent Business Assistant](./usecases/business-automation)
+- [Banking Intelligent Branch Operations](./usecases/Banking%20Intelligent%20Branch%20Operations/)
+- [Finance Market Research Analyst](./usecases/Finance%20Market%20Research%20Analyst/)
+- [Intelligent Business Assistant](./usecases/Intelligent%20Business%20Assistant)
