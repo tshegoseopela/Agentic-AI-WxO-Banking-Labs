@@ -14,6 +14,6 @@ In this bootcamp, you will build and deploy an Agentic AI application prototype 
 
 ## Pick a use case
 Select an enterprise use case, learn about the business story, and implement it using the hands-on step-by-step guides:
-- [Intelligent assistant](./usecases/intelligent-assistant)
-- [Financial Research Analyst](./usecases/banking-financial-research-analyst/)
-- [Business automation](./usecases/business-automation)
+- [Banking Intelligent Branch Operations](./usecases/intelligent-assistant)
+- [Finance Market Research Analyst](./usecases/banking-financial-research-analyst/)
+- [Intelligent Business Assistant](./usecases/business-automation)
