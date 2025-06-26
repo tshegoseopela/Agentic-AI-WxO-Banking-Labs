@@ -16,3 +16,6 @@ Select an enterprise use case, learn about the business story, and implement it 
 - [Banking Intelligent Branch Operations](./usecases/Banking%20Intelligent%20Branch%20Operations/)
 - [Finance Market Research Analyst](./usecases/Finance%20Market%20Research%20Analyst/)
 - [Intelligent Business Assistant](./usecases/Intelligent%20Business%20Assistant)
+- [Agent Development Kit (ADK)](./usecases/Agent%20Development%20Kit/)
+
+
