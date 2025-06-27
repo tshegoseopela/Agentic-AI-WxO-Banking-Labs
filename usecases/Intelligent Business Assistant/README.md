@@ -42,7 +42,7 @@ To streamline the competitive analysis process, we have designed a Multi-Agent A
 
 This system harnesses the combined power of  a watsonx Orchestrate agent and a watsonx.ai agent, working seamlessly together to automate competitive research, strengthen sales pitches, and minimize manual effort.
 
-<img width="900" alt="image" src="assets/Business_Automation_Architecture.png">
+<img width="900" alt="image" src="assets/image (38).png">
 
 This use case utilizes the capabilities of a watsonx Orchestrate agent to extract product-specific information (such as names and features) from the product catalog and to perform product comparisons. These agents are supported by a specialized agent developed in the watsonx.ai Agent Lab, and all are integrated within watsonx Orchestrate. Through the watsonx Orchestrate chat assistant, the agents collaborate and delegate tasks smoothly, delivering comprehensive insights and enabling informed decision-making.
 
