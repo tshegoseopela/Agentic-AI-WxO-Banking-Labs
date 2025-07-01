@@ -223,3 +223,51 @@ Follow the steps above, then try interacting with the use case using these sampl
    ![Comparison Agent Response 2](assets/chat_3.png)
 
 Now, explore and experience the power of Skills & Agents in action! 🚀 
+
+
+## Experimenting with Auto Finance Agent
+We will create one agent called  ‘Auto Finance Advisor’ Agent in watsonx.ai's Agent Lab as part of this setup:
+From the Home page of Agent Lab, click on the Build an AI agent to automate tasks
+
+
+![](assets/Homepage.png)
+
+You can access the Agent Lab via the following tool in watsonx platform
+
+![alt text](image.png)
+### ‘Auto Finance Advisor’ Agent
+Setup
+1.	Enter a name for the agent as shown in the image.
+2.	Add a description (optional)
+
+![](assets/AutoFinance.png)
+
+### Configuration
+1.	Choose LangGraph as the framework.
+2.	Select ReAct as the architecture.
+3.	Enter the following instructions
+
+```
+You are a helpful Auto finance assistant that uses tools to answer questions in detail.
+When greeted, say "Hi, I am auto finance agent. How can I help you?
+```
+
+![](assets/Instructions.png)
+
+As next step you can upload the finance document in the knowledge section by selecting  ‘Ground GenAI with vectorized documents
+
+![](assets/Knowledge.png)
+
+You can choose ‘in memory’ as vector store and you can select  the finance document file by browsing the document and uploading into the add files section
+
+![](assets/grounding.png)
+
+As a next step you can add some quick start questions to tune the agent response mode and behaviour
+
+![](assets/quick-start.png)
+
+Finally, you can use some sample questions as per the example below to test now the Auto Finance agent performance based on the provided knowledge base
+
+![](assets/output.png)
+
+
