@@ -1,4 +1,4 @@
-# 🤖 Watsonx Agentic AI Bootcamp
+# IBM TechXchange Workshop
 
 ![alt text](/agentic-bootcamp.png)
 
