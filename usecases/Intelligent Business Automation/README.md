@@ -1,7 +1,5 @@
  # 🥇 Intelligent Business Automation
-<!--![image](https://github.ibm.com/skol/agentic-ai-client-bootcamp/assets/451557/b9fb42fc-4aa1-4010-b850-5c8f20e3e05a)-->
-![image](assets/hypercar3.png)
-
+<img width="900" alt="image" src="assets/Business_Automation_Architecture.png">
 
 ## 🤔 The Problem
 
